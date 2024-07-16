@@ -1,4 +1,4 @@
-package com.example.literAlura;
+package com.catalog.literAlura;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -9,4 +9,5 @@ class LiterAluraApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+
 }
